@@ -46,9 +46,9 @@ This project demonstrates understanding of:
 ---
 
 ## 📂 Project Structure
-
+```
 task4-flask-user-api/
-│```
+│
 ├── app.py
 ├── users.json
 ├── requirements.txt
